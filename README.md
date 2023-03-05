@@ -60,3 +60,4 @@ Andromeda data was taken in the G band, while our data was taken in the V and B 
 Now the Andromeda data can be analysed in the same way as the cepheid stars we measured were. The period - luminosity relation can be found, and therefore
 a distance can be found using the observed magnitudes.
 
+correctg.py - I can't remember but feel its important so I've included it here as well
