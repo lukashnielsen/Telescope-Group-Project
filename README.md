@@ -7,7 +7,7 @@ Short Overview of the Code-
 This project required the use of large datasets of stars, using the code Source Extractor (SExtractor) 
 to extract information off of several telescope images taken with 
 the open university telescope in Tenerife,
-find the cepheid variable stars, calibrate the measured flux for extinction of the atmosphere to get the real flux of the stars and finally
+find the cepheid variable stars, calibrate the measured magnitudes for extinction of the atmosphere to get the real magnitudes of the stars and finally
 convert the magnitudes to the g colour band, as we used images from the liverpool telescope of a cepheid variable star in the Andromeda galaxy,
 which were taken in the g band.
 
